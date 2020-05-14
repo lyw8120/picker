@@ -1,16 +1,15 @@
+All the programs were complied by GCC 4.4.5 in Linux (kernel version 2.6.32).
 # picker
-a c++ GUI program for helical symmetry determination.
-
-it was compiled by gcc 4.4.5 version with the linux kernel version 2.6.32.
+A c++ GUI program for helical symmetry determination.
 
 # unStack
-it can split the stack of images to single images.
+The purpose is to split a stack of images to a set of single images.
 
 # waveLength
-it calculate the wavelength for given voltage
+It calculates the wavelength for given voltage
 
 # padding
 It can pad the volume with desired size.
 
 # mrcFloat2Char
-It is useful when you just want to check the image with proper contrast since it reduceis the size of image. 
+It is useful when you just want to check the image with proper contrast since it reduces the size of image. 
