@@ -11,4 +11,5 @@ it calculate the wavelength for given voltage
 
 #padding
 It can pad the volume with desired size.
-
+#mrcFloat2Char
+It is useful when you just want to check the image with proper contrast since it reduce the size of image. 
