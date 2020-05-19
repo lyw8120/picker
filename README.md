@@ -22,3 +22,6 @@ It would generate the mask file which also is a mrc format work with Picker.
 
 # helixSymCal
 A helical symmetry calculator after you know the information of the basic vectors.
+
+#mrc2tif
+A program converts mrc format to tif format
