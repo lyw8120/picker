@@ -25,3 +25,6 @@ A helical symmetry calculator after you know the information of the basic vector
 
 # mrc2tif
 A program converts mrc format to tif format for displaying.
+
+# volMask
+volMask was designed to create mask for input volume, it can create a inverse mask for subtraction too.
