@@ -28,3 +28,10 @@ A program converts mrc format to tif format for displaying.
 
 # volMask
 volMask was designed to create mask for input volume, it can create an inverse mask for subtraction too.
+
+# volRef
+volRef was designed to create a refernece.
+
+# deNovoMask
+deNovoMask can generate a de-novo mask in two-dimentional and three-dimentional space.
+
