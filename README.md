@@ -48,9 +48,9 @@ This program aims to impose the helical symmetry to the volume.
 A program that can generate the white noise and gaussian white noise data from 1D to 3D.
 
 # mrcMath
-mrcMath can process the mrc data from 1D to 3D using the basic math operations: "+, -, *, /".
+mrcMath can process the mrc data from 1D to 3D using the basic math operations: +, -, *, /.
 
-#frameDose
+# frameDose
 A small program to give the electron dose per frame for the cryo-em data.
 
 
