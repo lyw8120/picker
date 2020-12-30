@@ -1,4 +1,4 @@
-All the programs were complied by GCC 4.4.5 in Linux (kernel version 2.6.32).
+All the programs were complied by GCC 4.9.2 in Linux (kernel version 3.16.0-6).
 # picker
 A c++ GUI program for helical symmetry determination.
  
@@ -43,3 +43,13 @@ It targets the local search on the helical symmetry.
 
 # imposeHelicalSymmetry
 This program aims to impose the helical symmetry to the volume.
+
+# noise 
+A program that can generate the white noise and gaussian white noise data from 1D to 3D.
+
+# mrcMath
+mrcMath can process the mrc data from 1D to 3D using the basic math operations: +, -, *, /.
+
+#frameDose
+A small program to give the electron dose per frame for the cryo-em data.
+
