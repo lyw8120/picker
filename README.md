@@ -29,28 +29,20 @@ A program converts mrc format to tif format for displaying.
 # mrc2png
 A program converts mrc format to png format. 
 
-# volMask
-volMask was designed to create mask for input volume, it can create an inverse mask for subtraction too.
-
-# volRef
-volRef was designed to create a refernece.
-
-# deNovoMask
-deNovoMask can generate a de-novo mask in two-dimentional and three-dimentional space.
-
 # searchHelicalSymmetry
 It targets the local search on the helical symmetry.
 
 # imposeHelicalSymmetry
 This program aims to impose the helical symmetry to the volume.
 
-# noise 
-A program that can generate the white noise and gaussian white noise data from 1D to 3D.
-
 # mrcMath
-mrcMath can process the mrc data from 1D to 3D using the basic math operations: +, -, *, /.
+mrcMath can process the mrc data from 1D to 3D using the basic math operations: +, -, .*, ./. * and / wil come soon.
 
 # frameDose
 A small program to give the electron dose per frame for the cryo-em data.
+
+# mrcReference
+This program can generate a noise model or solid model(mask) from 1D to 3D. model can be box, sphere or clyinder. Therefore, The deNovoMask, volRef, volMask, and noise programs be removed.
+
 
 
