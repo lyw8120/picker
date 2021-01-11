@@ -42,7 +42,7 @@ mrcMath can process the mrc data from 1D to 3D using the basic math operations: 
 A small program to give the electron dose per frame for the cryo-em data.
 
 # mrcReference
-This program can generate a noise model or solid model(mask) from 1D to 3D. model can be box, sphere or clyinder. Therefore, The deNovoMask, volRef, volMask, and noise programs be removed.
+This program can generate a noise model or solid model(mask) from 1D to 3D. model can be box, sphere or clyinder. Therefore, The deNovoMask, volRef, volMask, and noise programs were removed.
 
 
 
